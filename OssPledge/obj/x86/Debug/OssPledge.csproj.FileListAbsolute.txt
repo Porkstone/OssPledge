@@ -1,0 +1,6 @@
+E:\Files\Development\OpenSource\OssPledge\m-r\OssPledge\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Files\Development\OpenSource\OssPledge\m-r\OssPledge\bin\Debug\OssPledge.dll.config
+E:\Files\Development\OpenSource\OssPledge\m-r\OssPledge\bin\Debug\OssPledge.dll
+E:\Files\Development\OpenSource\OssPledge\m-r\OssPledge\bin\Debug\OssPledge.pdb
+E:\Files\Development\OpenSource\OssPledge\m-r\OssPledge\obj\x86\Debug\OssPledge.dll
+E:\Files\Development\OpenSource\OssPledge\m-r\OssPledge\obj\x86\Debug\OssPledge.pdb

@@ -1,0 +1,61 @@
+﻿Iteration 1.0
+=============
+- OSS Project
+
+
+Actors
+======
+User - Anyone who creates an Oss Pledge Account
+OSS Project Owner - Founder or manager of project, can grant Commit rights to developers.
+OSS Project Developer - Committer. 
+Pledgor - Person or company pledging funds for an OSS Project or Feature
+Feed - 3rd Party Feed for Pledges e.g. Twitter #OSSPledge $10 for EmailNotification in @OssProjectX
+
+
+Aggregates
+===========
+
+- OSS Project
+	- Must have repository
+	- Must have Website Address
+	- Must have at least one Owner can have many owners
+	- May optionally have one or more Committers
+	- Owner must decide if pledges are paid to owner or committer that created feature.
+	- Hashtag or Twitter Handle
+
+Requested Feature
+	- Description of a new piece of functionality in project
+
+Pledge
+	- A monetary amount for a requested feature.
+	- Optionally can have an expiry date. E.G. "I will pledge $10 if a feature X is added before"
+
+Project Owner
+
+Pledgor
+
+Value Objects
+=============
+
+Accepted Payment Methods
+	- Project Owner can define accepted payment methods
+	- Pledgor can select preferred method 
+	- E.G. PayPal
+
+
+PVM Data Views
+==============
+Pledgor Trust Rating
+	- Total Value $USD of Pledges Paid
+	- # Negative Feedbacks
+	- # Positive Feedbacks
+
+Project Feature Requests
+	- Total Value $USD of pledges for feature
+	- Total # of Pledges
+	- Avg $USD valued of pledge
+
+User Details
+	- Pledges
+	- Projects 
+	

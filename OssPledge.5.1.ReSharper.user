@@ -1,0 +1,73 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="postEventSourceID" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DAFD2A8A-D6B0-4433-8DDF-B98460C64EC6/f:ReadModel.cs" caret="0" fromTop="0" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/f:ServiceLocator.cs" caret="162" fromTop="8" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/f:Global.asax.cs" caret="311" fromTop="10" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/f:Global.asax" caret="84" fromTop="0" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Shared/f:Site.Master" caret="512" fromTop="13" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="2564" fromTop="52" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Project/f:Index.aspx" caret="306" fromTop="4" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Home/f:Add.aspx" caret="461" fromTop="11" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Project/f:Add.aspx" caret="0" fromTop="0" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Controllers/f:HomeController.cs" caret="82" fromTop="3" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Specs/f:Requirements.txt" caret="419" fromTop="12" />
+      <File id="DAFD2A8A-D6B0-4433-8DDF-B98460C64EC6/f:FakeBus.cs" caret="725" fromTop="19" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Controllers/f:ProjectController.cs" caret="205" fromTop="9" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Home/f:Index.aspx" caret="354" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DAFD2A8A-D6B0-4433-8DDF-B98460C64EC6/f:FakeBus.cs" caret="94" fromTop="3" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Controllers/f:HomeController.cs" caret="83" fromTop="3" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/f:ServiceLocator.cs" caret="20" fromTop="1" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/f:Global.asax" caret="84" fromTop="0" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Home/f:Index.aspx" caret="143" fromTop="0" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="3272" fromTop="6" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="856" fromTop="35" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="3272" fromTop="32" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="1874" fromTop="23" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="1672" fromTop="11" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="1836" fromTop="23" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Shared/f:Site.Master" caret="512" fromTop="13" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="1765" fromTop="12" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="2065" fromTop="28" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Content/f:Site.css" caret="2149" fromTop="32" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Specs/f:Requirements.txt" caret="1165" fromTop="34" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Specs/f:Requirements.txt" caret="988" fromTop="29" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Controllers/f:ProjectController.cs" caret="56" fromTop="2" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Controllers/f:ProjectController.cs" caret="554" fromTop="24" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Controllers/f:ProjectController.cs" caret="286" fromTop="12" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Controllers/f:ProjectController.cs" caret="84" fromTop="4" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Specs/f:Requirements.txt" caret="1476" fromTop="56" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Specs/f:Requirements.txt" caret="415" fromTop="10" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Specs/f:Requirements.txt" caret="463" fromTop="17" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Specs/f:Requirements.txt" caret="733" fromTop="22" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Home/f:Index.aspx" caret="891" fromTop="19" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Home/f:Index.aspx" caret="1162" fromTop="30" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Home/f:Index.aspx" caret="375" fromTop="7" />
+      <File id="29ECBF37-9526-4CB6-8429-D09CF0301C26/d:Views/d:Home/f:Index.aspx" caret="533" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

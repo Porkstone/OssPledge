@@ -1,0 +1,6 @@
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\SimpleCQRS\bin\Debug\SimpleCQRS.dll.config
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\SimpleCQRS\bin\Debug\SimpleCQRS.dll
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\SimpleCQRS\bin\Debug\SimpleCQRS.pdb
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\SimpleCQRS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\SimpleCQRS\obj\x86\Debug\SimpleCQRS.dll
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\SimpleCQRS\obj\x86\Debug\SimpleCQRS.pdb

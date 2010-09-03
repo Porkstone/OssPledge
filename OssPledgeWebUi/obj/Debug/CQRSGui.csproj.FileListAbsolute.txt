@@ -1,0 +1,7 @@
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\CQRSGui\bin\CQRSGui.dll
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\CQRSGui\bin\CQRSGui.pdb
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\CQRSGui\bin\SimpleCQRS.dll
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\CQRSGui\bin\SimpleCQRS.pdb
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\CQRSGui\obj\Debug\ResolveAssemblyReference.cache
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\CQRSGui\obj\Debug\CQRSGui.dll
+E:\Files\Development\OpenSource\Greg Young CQRS Sample\m-r\CQRSGui\obj\Debug\CQRSGui.pdb
